@@ -11,5 +11,7 @@ module.exports = {
     layouts: basePath+"/app/layouts",
     controllers: basePath+"/app/controllers",
     public: basePath+"/public",
-    images: basePath+"/public/images"
+    images: basePath+"/public/images",
+    styles: basePath+"/public/styles",
+    js: basePath+"/public/js"
 };
