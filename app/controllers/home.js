@@ -14,7 +14,6 @@ class HomeController extends baseController {
     }
 
     home(){
-        console.log("por aqui paso");
         this.render({title: 'my action'});
     }
 
