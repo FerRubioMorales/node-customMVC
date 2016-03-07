@@ -5,18 +5,12 @@
 
 var baseController = require("../../lib/Controller");
 
-class HomeController extends baseController {
+class IndexController extends baseController {
 
     index(){
-
-        this.render();
-
-    }
-
-    home(){
         this.render({title: 'my action'});
     }
 
 }
 
-module.exports = HomeController;
+module.exports = IndexController;
