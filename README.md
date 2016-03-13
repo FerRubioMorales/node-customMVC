@@ -5,6 +5,6 @@ Custom MVC in Nodes.js with ecmascript 2015
 
 git clone https://github.com/FerRubioMorales/node-customMVC.git customMVC
 
-cd customMVC && npm install
+cd customMVC && npm start
 
 Get fun :)
